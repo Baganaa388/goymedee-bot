@@ -1,0 +1,33 @@
+{
+  "brand": {
+    "name": "ГОЁ МЭДЭЭ",
+    "tagline": "ТАНЫ ӨДРИЙН\nМЭДЭЭ",
+    "badge": "ГОЁ МЭДЭЭ"
+  },
+  "colors": {
+    "background": "#0c0d11",
+    "surface": "#14161c",
+    "accent": "#e01f26",
+    "text": "#ffffff",
+    "muted": "#b8bcc8"
+  },
+  "size": {
+    "width": 1080,
+    "height": 1350
+  },
+  "defaultTemplate": "classic",
+  "fonts": {
+    "display": "Oswald",
+    "body": "RobotoCondensed"
+  },
+  "frame": {
+    "enabled": true,
+    "color": "#ffffff",
+    "width": 3,
+    "blur": 3,
+    "opacity": 0.85,
+    "inset": 24,
+    "halo": true,
+    "haloColor": "#000000"
+  }
+}

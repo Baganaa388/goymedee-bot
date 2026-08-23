@@ -1,0 +1,21 @@
+{
+  "name": "news-bot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Facebook page post зураг үүсгэгч Telegram bot",
+  "scripts": {
+    "test": "node --test",
+    "preview": "node scripts/preview.js",
+    "bot": "node bot.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.120.0",
+    "@extractus/article-extractor": "^9.0.1",
+    "@grammyjs/runner": "^2.0.3",
+    "@napi-rs/canvas": "^1.0.7",
+    "grammy": "^1.45.1",
+    "openai": "^7.5.0",
+    "sharp": "^0.35.3"
+  }
+}
